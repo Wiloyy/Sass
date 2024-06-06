@@ -1,0 +1,39 @@
+.nav .nav-item .nav-link {
+  color: white;
+  transition: color 0.3s;
+}
+.nav-link:hover {
+  color: black;
+}
+
+body {
+  background-image: url(https://c.wallhere.com/photos/2b/3b/anime_girls_twintails_simple_background_playing_minimalism_Game_Babe_anime-231036.jpg!d);
+  background-size: cover;
+  background-position: center;
+}
+
+.navbar-expand-lg {
+  background-color: rgb(40, 39, 55);
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  margin-top: 50px;
+}
+
+h2 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  color: white;
+  font-size: 30px;
+  text-align: justify;
+  margin: 50px;
+}
+
+.carousel-inner {
+  align-items: center;
+}/*# sourceMappingURL=index.css.map */
