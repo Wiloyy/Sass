@@ -1,39 +1,36 @@
-.nav .nav-item .nav-link {
-  color: white;
-  transition: color 0.3s;
-}
-.nav-link:hover {
-  color: black;
+.h1, .h2, .h3, .h4, .h5, .h6,
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 145px;
+  margin-bottom: 0.5rem;
+  font-weight: 500;
+  line-height: 1.2;
+  color: var(--bs-heading-color);
 }
 
 body {
-  background-image: url(https://c.wallhere.com/photos/2b/3b/anime_girls_twintails_simple_background_playing_minimalism_Game_Babe_anime-231036.jpg!d);
-  background-size: cover;
+  background-image: url(https://img.freepik.com/fotos-premium/fundo-gradiente-preto-fundo-desfocado-preto-papel-de-parede-gradiente-preto-pastel_613001-6378.jpg);
   background-position: center;
-}
-
-.navbar-expand-lg {
-  background-color: rgb(40, 39, 55);
-}
-
-h1 {
-  color: white;
-  text-align: center;
-  margin-top: 50px;
-}
-
-h2 {
-  color: white;
-  text-align: center;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 p {
-  color: white;
-  font-size: 30px;
-  text-align: justify;
-  margin: 50px;
+  font-size: 25px;
+}
+p a {
+  font-size: 20px;
 }
 
-.carousel-inner {
-  align-items: center;
+.login-button {
+  background-color: rgb(71, 71, 77);
+  color: white;
+  font-size: 14px;
+  padding: 8px 20px;
+  border-radius: 50px;
+  text-decoration: none;
+  transition: 0.3s backgrond-color;
+}
+
+.login-button:hover {
+  background-color: rgb(233, 233, 238);
 }/*# sourceMappingURL=index.css.map */
