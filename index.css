@@ -1,3 +1,4 @@
+@charset "UTF-8";
 .h1, .h2, .h3, .h4, .h5, .h6,
 h1, h2, h3, h4, h5, h6 {
   margin-top: 145px;
@@ -33,4 +34,14 @@ p a {
 
 .login-button:hover {
   background-color: rgb(233, 233, 238);
+}
+
+.text-content {
+  width: 60%; /* Ajuste conforme necessário */
+}
+
+.personagem {
+  max-width: 30%; /* Ajuste conforme necessário */
+  height: auto;
+  margin-left: 20px; /* Espaço entre o texto e a imagem */
 }/*# sourceMappingURL=index.css.map */
