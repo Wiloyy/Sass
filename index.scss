@@ -24,12 +24,19 @@ body{
   background-repeat: no-repeat;
 }
 
+
+
 p{
   font-size: 25px;
   a{
     font-size: 20px;
-  }
+
+  } 
+
 }
+.card-text{
+  text-align: justify;
+} 
 
 .login-button{
   background-color: rgb(82, 82, 83);
@@ -43,6 +50,12 @@ p{
 
 .login-button:hover {
    background-color: rgb(233, 233, 238);
+}
+
+.black-box {
+  background-color: black;
+  padding: 20px;
+  margin: 20px;
 }
 
 
